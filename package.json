@@ -26,7 +26,9 @@
   ],
   "dependencies": {
     "@rails/webpacker": "3.4",
-    "normalize.css": "^8.0.0"
+    "actioncable": "^5.2.0",
+    "normalize.css": "^8.0.0",
+    "postcss-nested": "^3.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
